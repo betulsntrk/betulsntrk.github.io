@@ -1,0 +1,17 @@
+{
+    "menu_items":[
+        {"description":"Zengin espresso, buharla ısıtılmış kadifemsi süt ve süt köpüğünün dengeli buluşması",
+        "large_portion_name":"Grande",
+        "name":"Caffè Latte",
+        "price_large":33,
+        "price_small":29,
+        "short_name":"A1",
+        "small_portion_name":"Tall"},
+        {"description":"Zengin espresso, soğuk süt ve buzun soğuk kahve severlerle buluşması",
+        "large_portion_name":"Grande",
+        "name":"Buzlu Caffè Latte",
+        "price_large":35,
+        "price_small":31,
+        "short_name":"A2",
+        "small_portion_name":"Tall"}]
+}
