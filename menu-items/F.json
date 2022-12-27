@@ -1,0 +1,41 @@
+{
+    "category":{
+        "id": 6,
+        "name": "Sıcak Çikolatalar",
+        "short_name": "F",
+        "special_instructions": ""
+      },
+    "menu_items":[
+        {"description":"(Özel Sıcak Çikolata) Buharla ısıtılmış sütün ve özel çikolata sosunun buluşmasıyla ortaya çıkan tatlı lezzet",
+        "large_portion_name":"Grande",
+        "name":"Signature Hot Chocolate",
+        "price_large":23.5,
+        "price_small":20,
+        "short_name":"F1",
+        "small_portion_name":"Tall"},
+
+        {"description":"(Karamel Şuruplu Sıcak Çikolata) Buharla ısıtılmış süt, karamel şurubu ve özel çikolata sosunun buluşmasıyla ortaya çıkan tatlı lezzet",
+        "large_portion_name":"Grande",
+        "name":"Signature Caramel Hot Chocolate",
+        "price_large":25.75,
+        "price_small":22.25,
+        "short_name":"F2",
+        "small_portion_name":"Tall"},
+
+        {"description":"(Fındık Şuruplu Sıcak Çikolata) Buharla ısıtılmış süt, fındık şurubu ve özel çikolata sosunun buluşmasıyla ortaya çıkan tatlı lezzet",
+        "large_portion_name":"Grande",
+        "name":"Signature Hazelnut Hot Chocolate",
+        "price_large":26,
+        "price_small":22.5,
+        "short_name":"F3",
+        "small_portion_name":"Tall"},
+
+        {"description":"(Klasik Sıcak Çikolata) Buharla ısıtılmış sütün mocha sosu ile  buluşmasıyla ortaya çıkan tatlı lezzet",
+        "large_portion_name":"Grande",
+        "name":"Classic Hot Chocolate",
+        "price_large":23.25,
+        "price_small":20,
+        "short_name":"F4",
+        "small_portion_name":"Tall"}
+    ]
+}

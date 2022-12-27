@@ -1,0 +1,33 @@
+{
+    "category":{
+        "id": 7,
+        "name": "Şişelenmiş İçecekler",
+        "short_name": "G",
+        "special_instructions": ""
+      },
+    "menu_items":[
+        {"description":"Feel More %100 Nar Suyu",
+        "large_portion_name":"250mL",
+        "name":"Feel More Nar Suyu",
+        "price_large":19.5,
+        "price_small":"",
+        "short_name":"G1",
+        "small_portion_name":""},
+
+        {"description":"San Pellegrino Limonlu Gazlı İçecek",
+        "large_portion_name":"200mL",
+        "name":"San Pellegrino Limonlu Gazlı İçecek",
+        "price_large":27.75,
+        "price_small":"",
+        "short_name":"G2",
+        "small_portion_name":""},
+
+        {"description":"Sırma Su",
+        "large_portion_name":"500mL",
+        "name":"Su",
+        "price_large":8,
+        "price_small":"",
+        "short_name":"G3",
+        "small_portion_name":""}
+    ]
+}
