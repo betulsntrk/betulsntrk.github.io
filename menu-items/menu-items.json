@@ -1,0 +1,13 @@
+{"A":{"category":{
+    "id": 1,
+    "name": "Espresso Bazlı İçecekler",
+    "short_name": "A",
+    "special_instructions": ""
+  },"menu_items":[
+    {"description":"Zengin espresso, buharla ısıtılmış kadifemsi süt ve süt köpüğünün dengeli buluşması",
+    "large_portion_name":"Grande",
+    "name":"Caffè Latte",
+    "price_large":33,
+    "price_small":29,
+    "short_name":"A1",
+    "small_portion_name":"Tall"}]}}
