@@ -1,0 +1,17 @@
+{
+    "category":{
+        "id": 9,
+        "name": "Salata Ve Parfeler",
+        "short_name": "I",
+        "special_instructions": ""
+      },
+    "menu_items":[
+        {"description":"Kırmızı ve beyaz kinoalı, bol yeşillikli vegan salata",
+        "large_portion_name":"",
+        "name":"Kinoalı Salata",
+        "price_large":48.75,
+        "price_small":"",
+        "short_name":"H1",
+        "small_portion_name":""}
+    ]
+}

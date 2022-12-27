@@ -1,0 +1,17 @@
+{
+    "category":{
+        "id": 8,
+        "name": "Sandviçler",
+        "short_name": "H",
+        "special_instructions": ""
+      },
+    "menu_items":[
+        {"description":"Tam buğday unlu kare ciabatta sandviç ekmeği içerisinde fesleğen soslu çıtır pane ve peynire alternatif bitkisel lezzet",
+        "large_portion_name":"",
+        "name":"Çıtır Pane Ciabatta",
+        "price_large":48.75,
+        "price_small":"",
+        "short_name":"H1",
+        "small_portion_name":""}
+    ]
+}

@@ -37,26 +37,20 @@
     },
     {
       "id": 7,
-      "name": "Şişelenmiş İçecekler",
+      "name": "Fırından",
       "short_name": "G",
       "special_instructions": ""
     },
     {
       "id": 8,
-      "name": "Fırından",
+      "name": "Sandviçler",
       "short_name": "H",
       "special_instructions": ""
     },
     {
       "id": 9,
-      "name": "Sandviçler",
-      "short_name": "I",
-      "special_instructions": ""
-    },
-    {
-      "id": 10,
       "name": "Salata Ve Parfeler",
-      "short_name": "J",
+      "short_name": "I",
       "special_instructions": ""
     }
     
