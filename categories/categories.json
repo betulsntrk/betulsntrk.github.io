@@ -1,14 +1,14 @@
 [
     {
-      "id": 82,
-      "name": "Soup",
+      "id": 1,
+      "name": "Espresso Bazlı İçecekler",
       "short_name": "A",
       "special_instructions": ""
     },
     {
-      "id": 84,
-      "name": "Chef's Recommendations",
-      "short_name": "SP",
+      "id": 2,
+      "name": "Filtre Kahveler",
+      "short_name": "B",
       "special_instructions": ""
     }
   ]
