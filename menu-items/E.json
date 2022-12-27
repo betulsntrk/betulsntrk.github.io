@@ -1,0 +1,42 @@
+{
+    "category":{
+        "id": 5,
+        "name": "Buzlu Çaylar",
+        "short_name": "E",
+        "special_instructions": ""
+      },
+    "menu_items":[
+        {"description":"(Buzlu Siyah Çay) Siyah çay harmanı ve buzun buluşması",
+        "large_portion_name":"Grande",
+        "name":"Iced Black Tea",
+        "price_large":15.75,
+        "price_small":14.25,
+        "short_name":"E1",
+        "small_portion_name":"Tall"},
+
+        {"description":"(Limonata Aromalı Buzlu Siyah Çay) Siyah çay harmanı, ferahlatıcı limonata özü ve buzun buluşması",
+        "large_portion_name":"Grande",
+        "name":"Iced Black Tea & Lemonade",
+        "price_large":17.5,
+        "price_small":15.25,
+        "short_name":"E2",
+        "small_portion_name":"Tall"},
+
+        {"description":"(Buzlu Yeşil Çay) Yeşil çay ve buzun buluşması",
+        "large_portion_name":"Grande",
+        "name":"Iced Green Tea",
+        "price_large":15.75,
+        "price_small":14.25,
+        "short_name":"E3",
+        "small_portion_name":"Tall"},
+
+        {"description":"(Limonata Aromalı Buzlu Yeşil Çay) Yeşil çay, ferahlatıcı limonata özü ve buzun buluşması",
+        "large_portion_name":"Grande",
+        "name":"Iced Green Tea & Lemonade",
+        "price_large":17.5,
+        "price_small":15.25,
+        "short_name":"E4",
+        "small_portion_name":"Tall"}
+    ]
+
+}

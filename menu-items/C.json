@@ -1,0 +1,18 @@
+{
+    "category":{
+    "id": 3,
+    "name": "Türk Kahvesi",
+    "short_name": "C",
+    "special_instructions": ""
+    },
+    
+    "menu_items":[
+        {"description":"Geleneksel Türk Kahvesi",
+        "large_portion_name":"Double",
+        "name":"Türk Kahvesi",
+        "price_large":18.5,
+        "price_small":15.5,
+        "short_name":"C1",
+        "small_portion_name":"Single"}
+    ]
+}

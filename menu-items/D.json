@@ -1,0 +1,42 @@
+{
+    "category":{
+        "id": 4,
+        "name": "Sıcak Çaylar",
+        "short_name": "D",
+        "special_instructions": ""
+      },
+    "menu_items":[
+        {"description":"Zengin malt alt notalarına sahip, günün her saatinde keyifle deneyimleyebileceğiniz koyu siyah çay",
+        "large_portion_name":"Grande",
+        "name":"English Breakfast",
+        "price_large":15.5,
+        "price_small":14,
+        "short_name":"D1",
+        "small_portion_name":"Tall"},
+
+        {"description":"Siyah çayların bergamot yağı ve lavanta kokulu parlak harmanı",
+        "large_portion_name":"Grande",
+        "name":"Earl Grey",
+        "price_large":14.5,
+        "price_small":12.75,
+        "short_name":"D2",
+        "small_portion_name":"Tall"},
+
+        {"description":"Papaya, mango, hibiskus, limonotu ve tarçının berrak aromalarına sahip bitki çayı",
+        "large_portion_name":"Grande",
+        "name":"Hibiscus",
+        "price_large":16.5,
+        "price_small":14.75,
+        "short_name":"D3",
+        "small_portion_name":"Tall"},
+
+        {"description":"Limon, mineçiçeği, limon otu ve hafif yeşil nane notası taşıyan, dengeli bir yeşil çay harmanı",
+        "large_portion_name":"Grande",
+        "name":"Mint Citrus",
+        "price_large":16.5,
+        "price_small":14.75,
+        "short_name":"D4",
+        "small_portion_name":"Tall"}
+    ]
+
+}
