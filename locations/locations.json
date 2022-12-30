@@ -1,11 +1,13 @@
 [
     {
         "id": 1,
-        "name": "Bornova Subesi"
+        "name": "Karşıyaka Şubesi",
+        "address":"Şemikler, Şht. Cengiz Topel Cd. No:8/A-B, 35560 Karşıyaka/İzmir"
     },
 
     {
         "id": 2,
-        "name": "Alsancak Subesi"
+        "name": "Alsancak Şubesi",
+        "address": " The Port Residence, Alsancak Mah. Kıbrıs Şehitleri Cad. No:179/B-C, 35220 Konak/İzmir"
     }
 ]
