@@ -1,13 +1,16 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "name": "Karşıyaka Şubesi",
+        "short_name":"K",
         "address":"Şemikler, Şht. Cengiz Topel Cd. No:8/A-B, 35560 Karşıyaka/İzmir"
     },
 
     {
-        "id": "2",
+        "id": 2,
         "name": "Alsancak Şubesi",
+        "short_name":"A",
         "address": " The Port Residence, Alsancak Mah. Kıbrıs Şehitleri Cad. No:179/B-C, 35220 Konak/İzmir"
     }
+
 ]
